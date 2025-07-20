@@ -52,5 +52,5 @@
 <p align="center">
   <img src="./assets/Deadly Sukuna.jpg" width="75%" alt="Profile Background"/>
   <br>
-  <i>The face behind the code — built different.</i>
+  <i>The face behind the code — built different.🎭</i>
 </p>
