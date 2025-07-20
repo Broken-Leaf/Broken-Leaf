@@ -2,7 +2,7 @@
 
 <style>
   body {
-    background: url('./assets/profile-bg.jpg') center center / cover no-repeat fixed;
+    background: url('./assets/Deadly Sukuna.jpg') center center / cover no-repeat fixed;
     backdrop-filter: blur(2px);
     animation: floatWaves 10s infinite ease-in-out;
   }
@@ -18,7 +18,7 @@
 
 <img src="./assets/qr-code.png" width="120" style="border-radius: 12px;" />
 
-# 👋 Yo, I’m Arnav Raj
+# 👋 Hello World, I’m Arnav
 ### 🧠 Code Technician · 🎴 Anime Soul · 🌌 Midnight Creator
 
 🖤 Calm mind. Clean code. Lofi beats in the background.  
