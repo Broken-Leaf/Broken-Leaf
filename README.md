@@ -1,7 +1,7 @@
 <!-- 👋 Hi there -->
 
 <div align="center">
-  <img src="profile.jpg" alt="Arnav Raj" width="150" style="border-radius: 50%;" />
+  <img src="Deadly Sukuna.jpg" alt="Arnav Raj" width="150" style="border-radius: 50%;" />
   <h1>Hey, I'm Arnav 👾</h1>
   <p>
     🌙 Code whisperer by day, anime thinker by night.  
